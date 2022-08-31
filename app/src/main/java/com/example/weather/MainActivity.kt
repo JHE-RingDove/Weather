@@ -280,8 +280,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    fun onClickBack(view: View) {
-        setContentView(R.layout.activity_main)
-//        finish()
-    }
+
 }
